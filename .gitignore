@@ -111,6 +111,9 @@ env.bak/
 venv.bak/
 machine_learning/
 
+#vscodesettings
+.vscode/
+
 # Spyder project settings
 .spyderproject
 .spyproject

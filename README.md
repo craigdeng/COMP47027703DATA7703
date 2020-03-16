@@ -4,7 +4,7 @@ The following instructions assume that you have python, pip, and git installed a
 
 In terminal, cmd, or powershell
 1. Clone this repository using (If you do not have git install it):
-    `git clone https://github.com/llewynS/DATA7703.git`
+    `git clone https://github.com/llewynS/COMP47027703DATA7703.git`
 2. Change directory:
     `cd DATA7703`
 3. Create a virtual python environment by calling in this directory 
